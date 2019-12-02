@@ -19,7 +19,7 @@
 
 [Python Exercies](https://www.w3resource.com/python-exercises/)
 
-[Python Videos from Pycon](https://pyvideo.org)
+[Python Videos from PyEvents](https://pyvideo.org)
 
 
 ### Jupyter and IDE related
