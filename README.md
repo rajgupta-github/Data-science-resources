@@ -5,13 +5,21 @@
 
 ## Machine Learning
 
+[ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ### Deployment of ML
 
+[Productionalize your ML Model](https://towardsdatascience.com/productionizing-your-machine-learning-model-221468b0726d)
+
+[Different approaches to ML model in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 
 ## Python
 
 [Everything About Python — Beginner To Advanced](https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2)
+
+[Python Exercies](https://www.w3resource.com/python-exercises/)
+
+[Python Videos from Pycon](https://pyvideo.org)
 
 
 ### Jupyter and IDE related
@@ -31,10 +39,9 @@
 
 ### Matplotlib, Seaborn, Visualization
 
+[Seaborn Tutorial](https://github.com/clair513/Seaborn-Tutorial)
 
-
-
-### NumPy
+[Data Visualization with Seaborn](https://github.com/neerjad/DataVisualization)
  
 
 
@@ -42,5 +49,10 @@
 
 [Pandas Exercies](https://github.com/guipsamora/pandas_exercises)
 
+[Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
 
- 
+[Python and Pandas Tutorial for beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners)
+
+[Pandas Dataframe](https://data-flair.training/blogs/pandas-dataframe/)
+
+[Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
