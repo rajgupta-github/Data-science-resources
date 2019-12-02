@@ -40,5 +40,7 @@
 
 ### Pandas
 
+[Pandas Exercies](https://github.com/guipsamora/pandas_exercises)
+
 
  
