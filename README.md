@@ -58,7 +58,7 @@
 [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
 
-Top 10 Websites for Data Science
+### Top 10 Websites for Data Science
 
 1. Coursera
 2. EdX
@@ -71,7 +71,7 @@ Top 10 Websites for Data Science
 9. Analytics Vidya
 10. KDNuggets
 
-Top 10 Skills for Data Science
+### Top 10 Skills for Data Science
 
 1. Probability & Statistics 
 2. Linear Algebra
@@ -84,7 +84,7 @@ Top 10 Skills for Data Science
 9. Excel
 10. DevOps
 
-Top 10 Algorithms for Data Science
+### Top 10 Algorithms for Data Science
 
 1. Linear Regression
 2. Logistics Regression
@@ -97,7 +97,7 @@ Top 10 Algorithms for Data Science
 9. XGboost
 10. Artificial Neural Networks
 
-Top 10 Industries for Data Science
+### Top 10 Industries for Data Science
 
 1. Technology 
 2. Finance
