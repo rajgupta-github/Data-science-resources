@@ -58,6 +58,12 @@
 [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
 
+### Top Trends in Data Science for 2020
+1. Democratization of Data Science
+2. Data Science moving to Cloud (Azure ML, AWS and Google Cloud Platform)
+3. Automation in Data Science
+
+
 ### Top 10 Websites for Data Science
 
 1. Coursera
@@ -70,6 +76,7 @@
 8. R-bloggers
 9. Analytics Vidya
 10. KDNuggets
+11. Medium
 
 ### Top 10 Skills for Data Science
 
