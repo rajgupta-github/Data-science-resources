@@ -24,6 +24,8 @@
 
 ### Jupyter and IDE related
 
+[How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
+
 [Interactive spreadsheets in Jupyter](https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff)
 
 [PyCharm for data scientists](https://www.kdnuggets.com/2019/05/pycharm-data-scientists.html)
