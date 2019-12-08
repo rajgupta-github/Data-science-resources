@@ -3,6 +3,20 @@
 ---
 
 
+## Data Sciennce
+
+Project Lifecycle
+1. Data Collection
+2. Data Cleaning
+3. EDA - 70% of time
+4. Model Building
+5. Conitnuous Improvement
+6. Interpret and present to the business
+
+[Data Science Notes](https://docs.google.com/document/d/18BRJIHJzXxESGigcNBnb2YpwLeHt7CnxEVyKsGcR7kk/edit#)
+[Insaid Class Excel](https://docs.google.com/spreadsheets/d/12fgUtQ9_5_bMxkN40XBy6bPw7-gBM5NhbzLUj_CsDsY/edit?usp=sharing)
+[Curated List of 100+ Data Science resources](https://medium.com/@neuralnets/curated-list-of-100-data-science-resources-for-practitioners-3c0510ed47a3?)
+
 ## Machine Learning
 
 [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
@@ -79,6 +93,11 @@
 9. Analytics Vidya
 10. KDNuggets
 11. Medium
+12. Quora
+13. Data Science Central
+14. Towards Data Science
+15. nycdatascience
+
 
 ### Top 10 Skills for Data Science
 
@@ -118,3 +137,13 @@
 8. Cybersecurity 
 9. Energy
 10. Utilities
+
+
+
+### Top 10 Python Packages for Data Science
+
+1. Numpy
+2. Pandas
+3. Seaborn
+4. Scikit-Learn
+5. TensorFlow
