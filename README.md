@@ -1,9 +1,7 @@
 # Data Science Resources
 
----
 
-
-## Data Sciennce
+## Data Science
 
 Project Lifecycle
 1. Data Collection
@@ -14,7 +12,9 @@ Project Lifecycle
 6. Interpret and present to the business
 
 [Data Science Notes](https://docs.google.com/document/d/18BRJIHJzXxESGigcNBnb2YpwLeHt7CnxEVyKsGcR7kk/edit#)
+
 [Insaid Class Excel](https://docs.google.com/spreadsheets/d/12fgUtQ9_5_bMxkN40XBy6bPw7-gBM5NhbzLUj_CsDsY/edit?usp=sharing)
+
 [Curated List of 100+ Data Science resources](https://medium.com/@neuralnets/curated-list-of-100-data-science-resources-for-practitioners-3c0510ed47a3?)
 
 ## Machine Learning
