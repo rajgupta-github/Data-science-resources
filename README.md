@@ -17,6 +17,26 @@ Project Lifecycle
 
 [Curated List of 100+ Data Science resources](https://medium.com/@neuralnets/curated-list-of-100-data-science-resources-for-practitioners-3c0510ed47a3?)
 
+
+[Plan of Action](https://towardsdatascience.com/from-data-analyst-to-data-scientist-f67a724ea265)
+
+1. Start with the right philosophy - Practice skills continually
+2. Learn a language and develop your maths skills [Andrew Ng machine
+            learning course](https://www.coursera.org/learn/machine-learning)
+   
+   [Stanford neural network course](http://cs231n.stanford.edu/)
+3. Solve a problem - real problem at your workplace working alongside business experts and data engineers
+4.  Enter [Kaggle](https://www.kaggle.com/) competitions
+5. Find out what leaders in the field are saying
+   [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton),
+   [Andrew Ng](http://www.andrewng.org/),
+   [Yann LeCun](http://yann.lecun.com/),
+   [Rachel Thomas](https://www.usfca.edu/arts-sciences/faculty/rachel-thomas)
+   and [Jeremy Howard](https://su.org/about/faculty/jeremy-howard/).
+6. Use effective ways of working - Use Github for deploying and
+   maintaining code, Use Docker for containerisation
+7. Communicate effectively - improve art of story telling
+
 ## Machine Learning
 
 [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
