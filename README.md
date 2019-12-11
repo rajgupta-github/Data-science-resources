@@ -15,6 +15,8 @@ Project Lifecycle
 
 [Insaid Class Excel](https://docs.google.com/spreadsheets/d/12fgUtQ9_5_bMxkN40XBy6bPw7-gBM5NhbzLUj_CsDsY/edit?usp=sharing)
 
+[Career Launchpad Tracker](https://docs.google.com/spreadsheets/d/1WfTK6aGdxQX_zPQ0M5jZubNBFgGt6Gx5MvjlGl-rnqo/edit#gid=1699438630)
+
 [Curated List of 100+ Data Science resources](https://medium.com/@neuralnets/curated-list-of-100-data-science-resources-for-practitioners-3c0510ed47a3?)
 
 
@@ -36,6 +38,7 @@ Project Lifecycle
 6. Use effective ways of working - Use Github for deploying and
    maintaining code, Use Docker for containerisation
 7. Communicate effectively - improve art of story telling
+8. Networking with Data Science Teams in my company and network
 
 ## Machine Learning
 
