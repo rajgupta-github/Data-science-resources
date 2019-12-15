@@ -44,13 +44,24 @@ Project Lifecycle
 
 [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
+[Machine Learning Mastery](https://machinelearningmastery.com/)
+
+[scikit-learn github repo](https://github.com/scikit-learn/scikit-learn)
+
+
 ### Deployment of ML
 
 [Productionalize your ML Model](https://towardsdatascience.com/productionizing-your-machine-learning-model-221468b0726d)
 
 [Different approaches to ML model in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 
-## Python
+
+### AI
+
+[Google AI Blog](https://ai.googleblog.com/)
+
+
+### Python
 
 [Everything About Python — Beginner To Advanced](https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2)
 
