@@ -11,6 +11,8 @@ Project Lifecycle
 5. Conitnuous Improvement
 6. Interpret and present to the business
 
+[Google Search for Datasets](https://toolbox.google.com/datasetsearch)
+
 [Data Science Notes](https://docs.google.com/document/d/18BRJIHJzXxESGigcNBnb2YpwLeHt7CnxEVyKsGcR7kk/edit#)
 
 [Insaid Class Excel](https://docs.google.com/spreadsheets/d/12fgUtQ9_5_bMxkN40XBy6bPw7-gBM5NhbzLUj_CsDsY/edit?usp=sharing)
@@ -18,7 +20,6 @@ Project Lifecycle
 [Career Launchpad Tracker](https://docs.google.com/spreadsheets/d/1WfTK6aGdxQX_zPQ0M5jZubNBFgGt6Gx5MvjlGl-rnqo/edit#gid=1699438630)
 
 [Curated List of 100+ Data Science resources](https://medium.com/@neuralnets/curated-list-of-100-data-science-resources-for-practitioners-3c0510ed47a3?)
-
 
 [Plan of Action](https://towardsdatascience.com/from-data-analyst-to-data-scientist-f67a724ea265)
 
@@ -49,17 +50,22 @@ Project Lifecycle
 [scikit-learn github repo](https://github.com/scikit-learn/scikit-learn)
 
 
-### Deployment of ML
+### ML Deployment
 
 [Productionalize your ML Model](https://towardsdatascience.com/productionizing-your-machine-learning-model-221468b0726d)
 
 [Different approaches to ML model in production](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 
 
-### AI
+### DeepLearning/AI
 
 [Google AI Blog](https://ai.googleblog.com/)
 
+[Cloud GPU Vendors](https://github.com/binga/cloud-gpus)
+
+[Deep Learning hardware guide](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
+
+[Which GPU for Deep Learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 
 ### Python
 
@@ -69,6 +75,9 @@ Project Lifecycle
 
 [Python Videos from PyEvents](https://pyvideo.org)
 
+[Automate Borig Stuff With Python](https://automatetheboringstuff.com/)
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Jupyter and IDE related
 
@@ -176,8 +185,13 @@ Project Lifecycle
 
 ### Top 10 Python Packages for Data Science
 
-1. Numpy
-2. Pandas
-3. Seaborn
-4. Scikit-Learn
-5. TensorFlow
+1. Pandas - https://pandas.pydata.org/
+2. NumPy - http://www.numpy.org/
+3. SciPy - https://www.scipy.org/scipylib/index.html
+4. Scikit-learn - https://scikit-learn.org/stable/
+5. Statsmodels - https://www.statsmodels.org/stable/index.html
+14. NLTK - https://www.nltk.org/ 
+15. Seaborn - https://seaborn.pydata.org/
+8. Matplotlib - https://matplotlib.org/
+9. Tensorflow - https://www.tensorflow.org/
+10. Keras - https://keras.io/
