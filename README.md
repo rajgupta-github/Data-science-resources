@@ -23,6 +23,12 @@ Project Lifecycle
 
 [Plan of Action](https://towardsdatascience.com/from-data-analyst-to-data-scientist-f67a724ea265)
 
+[Data Science & AI Weekly](https://www.youtube.com/playlist?list=PLP1eUVG37agxmltj5KdlmBcxEAScQ5SDe)
+
+[14 Data Science Project Ideas](https://data-flair.training/blogs/data-science-project-ideas/)
+
+[Top 5 Data Science Projects](https://data-flair.training/blogs/data-science-projects-code/)
+
 1. Start with the right philosophy - Practice skills continually
 2. Learn a language and develop your maths skills [Andrew Ng machine
             learning course](https://www.coursera.org/learn/machine-learning)
@@ -45,10 +51,11 @@ Project Lifecycle
 
 [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
-[Machine Learning Mastery](https://machinelearningmastery.com/)
+[Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 [scikit-learn github repo](https://github.com/scikit-learn/scikit-learn)
 
+[Challenging Open Source Data Science Projects](https://www.analyticsvidhya.com/blog/2019/12/30-challenging-open-source-data-science-projects-2020/)
 
 ### ML Deployment
 
@@ -79,6 +86,8 @@ Project Lifecycle
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+[PyForest - Importing all Python Data Science Libraries in One Line of Code](https://github.com/8080labs/pyforest)
+
 ### Jupyter and IDE related
 
 [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
@@ -93,8 +102,20 @@ Project Lifecycle
 
 [Economics simulation Jupyter Notebook Peter Norvig](http://nbviewer.jupyter.org/url/norvig.com/ipython/Economics.ipynb)</dt>
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)</dt>
- 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Markdown Cheatsheet1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Markdown Editor](https://pandao.github.io/editor.md/en.html)
+
+[Writing On Github](https://help.github.com/en/categories/writing-on-github)
+
+[Basic Writing and Formatting Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+
+### Meetups
+[ODSC videos](https://odsc.thinkific.com/enrollments)
+
 
 ### Matplotlib, Seaborn, Visualization
 
@@ -181,8 +202,6 @@ Project Lifecycle
 9. Energy
 10. Utilities
 
-
-
 ### Top 10 Python Packages for Data Science
 
 1. Pandas - https://pandas.pydata.org/
@@ -195,3 +214,13 @@ Project Lifecycle
 8. Matplotlib - https://matplotlib.org/
 9. Tensorflow - https://www.tensorflow.org/
 10. Keras - https://keras.io/
+11. OpenCV-Python - 
+
+
+### [Data Science Roles](https://blog.insaid.co/episode-11-4-types-of-data-science-roles-that-you-should-be-targeting-in-2020/)
+1. Data Analyst
+2. Junior Data Scientist | Associate Data Scientist
+3. Data Science Consultant
+4. Data Science Industry Expert | Domain Expert | ML Engineer | AI
+   Engineer
+
