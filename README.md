@@ -29,6 +29,9 @@ Project Lifecycle
 
 [Top 5 Data Science Projects](https://data-flair.training/blogs/data-science-projects-code/)
 
+
+[Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
+
 1. Start with the right philosophy - Practice skills continually
 2. Learn a language and develop your maths skills [Andrew Ng machine
             learning course](https://www.coursera.org/learn/machine-learning)
@@ -46,6 +49,8 @@ Project Lifecycle
    maintaining code, Use Docker for containerisation
 7. Communicate effectively - improve art of story telling
 8. Networking with Data Science Teams in my company and network
+
+
 
 ## Machine Learning
 
@@ -66,6 +71,10 @@ Project Lifecycle
 
 ### DeepLearning/AI
 
+[Neural Networks and Deep Learning eBook](http://neuralnetworksanddeeplearning.com/index.html)
+
+[Age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=1)
+
 [Google AI Blog](https://ai.googleblog.com/)
 
 [Cloud GPU Vendors](https://github.com/binga/cloud-gpus)
@@ -73,6 +82,14 @@ Project Lifecycle
 [Deep Learning hardware guide](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 
 [Which GPU for Deep Learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
+
+
+### NLP (Natural Language Processing)
+
+[BERT](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/?utm_source=twitter.com&utm_medium=social)
+
+[How Transformers work in NLP](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework)
+
 
 ### Python
 
@@ -87,6 +104,8 @@ Project Lifecycle
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [PyForest - Importing all Python Data Science Libraries in One Line of Code](https://github.com/8080labs/pyforest)
+
+
 
 ### Jupyter and IDE related
 
@@ -122,6 +141,12 @@ Project Lifecycle
 [Seaborn Tutorial](https://github.com/clair513/Seaborn-Tutorial)
 
 [Data Visualization with Seaborn](https://github.com/neerjad/DataVisualization)
+
+[Streamlit](https://github.com/streamlit/streamlit)
+
+[Dash - Alternative to Tableau](https://plot.ly/dash/)
+
+[Dash Dashboards](https://dash-gallery.plotly.host/dash-live-model-training/)
  
 
 
@@ -223,4 +248,24 @@ Project Lifecycle
 3. Data Science Consultant
 4. Data Science Industry Expert | Domain Expert | ML Engineer | AI
    Engineer
+   [KD Nuggets DS Roles](https://www.kdnuggets.com/2015/11/different-data-science-roles-industry.html)
+   [Analytics Vidhya DS roles](https://www.analyticsvidhya.com/blog/2015/12/job-roles-data-science-industry-who-what/)
+   [Medium DS Roles article](https://towardsdatascience.com/what-kind-of-data-science-role-is-right-for-you-9d2f4b117e81)
+
+   
+### Indian Companies actively working in AI and ML domains:
+
+1. Embibe (Education)
+2. Niki AI (E-Commerce)
+3. Rubique (Fintech)
+4. Globant India
+5. Datametica
+6. Formcept
+7. AIndra Systems
+8. MadStreetDen
+9. VPhrase
+10. Arya AI
+11. Brainasoft
+12. Fluid AI
+   
 
