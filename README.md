@@ -54,6 +54,15 @@ Project Lifecycle
 
 ## Machine Learning
 
+[7 Steps to follow in any Machine Learning Project](https://blog.insaid.co/what-are-machine-learning-projects/#How_to_approach_Machine_Learning_projects)
+- Data Reading
+- Pre-Processing
+- Data Normalization
+- Data Standardization
+- Data Split
+- Apply ML algorithm
+- Evaluate significance of the model
+
 [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
@@ -163,10 +172,13 @@ Project Lifecycle
 [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
 
-### Top Trends in Data Science for 2020
+### [Top Trends in Data Science for 2020](https://www.kdnuggets.com/2019/12/4-hottest-trends-data-science-2020.html)
 1. Democratization of Data Science
-2. Data Science moving to Cloud (Azure ML, AWS and Google Cloud Platform)
+2. Super-sized Data Science in the Cloud - Data Science moving to Cloud
+   (Azure ML, AWS and Google Cloud Platform)
 3. Automation in Data Science
+4. Natural Language Processing
+5. Data Privacy and Security
 
 
 ### Top 10 Websites for Data Science
