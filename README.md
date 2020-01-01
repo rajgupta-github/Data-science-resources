@@ -1,4 +1,4 @@
-# Data Science Resources
+# Data Science and AI Resources
 
 
 ## Data Science
@@ -80,6 +80,8 @@ Project Lifecycle
 
 ### DeepLearning/AI
 
+[Image Kernels Visual Explanation](http://setosa.io/ev/image-kernels/)
+
 [Neural Networks and Deep Learning eBook](http://neuralnetworksanddeeplearning.com/index.html)
 
 [Age of AI](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=1)
@@ -91,7 +93,6 @@ Project Lifecycle
 [Deep Learning hardware guide](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 
 [Which GPU for Deep Learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
-
 
 ### NLP (Natural Language Processing)
 
