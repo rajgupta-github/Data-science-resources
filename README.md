@@ -29,8 +29,9 @@ Project Lifecycle
 
 [Top 5 Data Science Projects](https://data-flair.training/blogs/data-science-projects-code/)
 
-
 [Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
+
+[Knime Data Science Software](https://www.knime.com/)
 
 1. Start with the right philosophy - Practice skills continually
 2. Learn a language and develop your maths skills [Andrew Ng machine
@@ -65,6 +66,8 @@ Project Lifecycle
 
 [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
+[ML Crash Course from Google](https://developers.google.com/machine-learning/crash-course)
+
 [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 [scikit-learn github repo](https://github.com/scikit-learn/scikit-learn)
@@ -94,11 +97,39 @@ Project Lifecycle
 
 [Which GPU for Deep Learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 
+[MIT Deep Learning](https://deeplearning.mit.edu/)
+
+
+### Kaggle
+
+[Kaggle Days Meetup Talks](https://github.com/kdmdelhincr/talks)
+
+
 ### NLP (Natural Language Processing)
+NLP industry is expected to grow from USD 10.2 billion in 2019 to USD 26.4 billion by 2024. Here are a few resources to get started with NLP and be a part of this highly awesome domain.
+
 
 [BERT](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/?utm_source=twitter.com&utm_medium=social)
 
 [How Transformers work in NLP](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework)
+
+1. NLP course by Yandex School of Data Analytics: https://lnkd.in/fePhndv
+2. State of the Art #NLP Innovations: https://lnkd.in/fbGkS_a
+3. Deep Learning for NLP: https://lnkd.in/fWkGCbR
+4. Fast AI NLP Course: https://lnkd.in/fPCcJAZ
+5. Awesome NLP Journey: https://lnkd.in/fk7edUt
+6. Resources from Top NLP Conferences: https://lnkd.in/fiy-rhE
+7. NLP with #python: https://lnkd.in/fBbRkd9
+8. NLP with Deep Learning: https://lnkd.in/fCvRyCi
+9. Curated Resources for NLP: https://lnkd.in/fkCcu_3
+10. NLP Tutorial for #deeplearning Researchers: https://lnkd.in/fSJ34yR
+
+BONUS
+
+1. All kinds of Text Classification Models: https://lnkd.in/fZ4_zq6
+2. Open-source NLP research library, built on PyTorch: https://lnkd.in/ft9rxyE
+3. State-of-the-art NLP for TensorFlow 2.0 and PyTorch: https://lnkd.in/fYcNwYU
+4. NLP for the next decade: https://lnkd.in/fi78EBC
 
 
 ### Python
