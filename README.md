@@ -106,12 +106,15 @@ Project Lifecycle
 
 
 ### NLP (Natural Language Processing)
-NLP industry is expected to grow from USD 10.2 billion in 2019 to USD 26.4 billion by 2024. Here are a few resources to get started with NLP and be a part of this highly awesome domain.
-
+NLP industry is expected to grow from USD 10.2 billion in 2019 to USD
+26.4 billion by 2024. Here are a few resources to get started with NLP
+and be a part of this highly awesome domain.
 
 [BERT](https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/?utm_source=twitter.com&utm_medium=social)
 
 [How Transformers work in NLP](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=demystifying-bert-groundbreaking-nlp-framework)
+
+[Learning Path in NLP](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/?)
 
 1. NLP course by Yandex School of Data Analytics: https://lnkd.in/fePhndv
 2. State of the Art #NLP Innovations: https://lnkd.in/fbGkS_a
