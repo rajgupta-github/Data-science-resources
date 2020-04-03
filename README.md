@@ -191,6 +191,8 @@ BONUS
 [Dash - Alternative to Tableau](https://plot.ly/dash/)
 
 [Dash Dashboards](https://dash-gallery.plotly.host/dash-live-model-training/)
+
+[Seaborn Doc](https://seaborn.pydata.org/api.html)
  
 
 
@@ -314,5 +316,43 @@ BONUS
 10. Arya AI
 11. Brainasoft
 12. Fluid AI
-   
 
+### Links from Lavi for Edge for 10+
+https://www.thispersondoesnotexist.com/ https://magenta.tensorflow.org/
+https://eng.uber.com/
+https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67
+https://chrisalbon.com/machine_learning/preprocessing_structured_data/handling_imbalanced_classes_with_upsampling/
+https://github.com/slundberg/shap https://github.com/hyperopt/hyperopt
+https://www.youtube.com/watch?reload=9&v=3liCbRZPrZA 
+
+ML Template
+https://docs.google.com/document/d/1FfXoe7X7a7DY6xb3ryDc7LlQD1rxT-w3tqYePUXJ0Ig/edit
+https://towardsdatascience.com/stop-copy-pasting-notebooks-embrace-jupyter-templates-6bd7b6c00b94
+
+### COVID-19 
+https://covidout.in/
+https://bing.com/covid
+https://towardsdatascience.com/kaggle-released-cord-19-an-ai-challenge-on-the-covid-19-50d657378ff4
+https://www.worldometers.info/coronavirus/
+http://ncov.ai/
+https://www.h2o.ai/blog/covid-19-doing-good-with-data-ai/
+https://www.fast.ai/2020/03/09/coronavirus/
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/activity
+
+### Download Insaid Video
+1. Right click on video, copy "Copy link and thumbnail" 
+2. copy video code from above link wvideo=tfux66dhyi and place this code
+   after iframe in below link
+   http://fast.wistia.net/embed/iframe/tfux66dhyi
+3. run this link, press option+command+U,find .bin, copy link like
+   http://embed.wistia.com/deliveries/147e94938491b87b8dbc39a8e17d9e16.bin
+   replace .bin with .mp4 in above link, run tht, save video, done
+
+### Other Links   
+https://www.kaggle.com/new-york-city/nyc-property-sales
+
+### AI Resourcses google Doc from AI India
+https://docs.google.com/document/d/1hMwugi38ZxTxHph6lYSkCTGc_Q4WbpCYrI_jdBpgcsw/edit?fbclid=IwAR1fkNfh_wNhXOJyMnTn8mdQJcOAaBQxqv3FxEaJrFfTEEwwBB4kKe0jTxE#heading=h.iizrhafgvw1i
+
+### Great Learning Free Courses
+https://olympus.greatlearning.in/courses/10918
