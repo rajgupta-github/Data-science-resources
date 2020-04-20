@@ -356,3 +356,27 @@ https://docs.google.com/document/d/1hMwugi38ZxTxHph6lYSkCTGc_Q4WbpCYrI_jdBpgcsw/
 
 ### Great Learning Free Courses
 https://olympus.greatlearning.in/courses/10918
+
+### Timeseries Excel
+https://docs.google.com/spreadsheets/d/1Gem0jycctJHGh2RKKXUZj-kFlDb5zLv3VUbseMpZ-Eg/edit?usp=sharing
+https://colab.research.google.com/drive/1C8KZ0UAtGzMPRG1tpXfFHbbJLK2EQ1uD#scrollTo=P_z9gSpyletp
+https://facebook.github.io/prophet/docs/quick_start.html
+https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc435.htm
+
+
+### RASA
+https://github.com/colearninglounge/co-learning-lounge/tree/master/Technology/Artificial%20Intelligence/Natural%20Language%20Processing/Concepts/Chatbot/RASA/restaurant_bot
+
+
+### Tensorflow Udemy
+https://naspers.udemy.com/course/tensorflow-2-practical/learn/lecture/15914928#announcements
+https://naspers.udemy.com/course/tensorflow-2/learn/lecture/15155382#announcements
+https://naspers.udemy.com/course/machine-learning-with-tensorflow-for-business-intelligence/learn/lecture/8447744#announcements
+https://naspers.udemy.com/course/tensorflow-2-practical-advanced/learn/lecture/16324712#announcements
+https://naspers.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/learn/lecture/17377752#announcements
+
+### DL Resources
+https://neuralrepo.net/2019/07/06/6-jars%e2%80%8a-%e2%80%8aa-complete-pipeline-in-machine-learning/
+http://neuralnetworksanddeeplearning.com/index.html
+http://www.deeplearningbook.org/
+https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
